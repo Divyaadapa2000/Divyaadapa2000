@@ -1,0 +1,10 @@
+def check(n):
+if n>o:
+print("Positive")
+elif n<0:
+print("Negative")
+else
+print("Equal to Zero")
+check(3)
+check(-5)
+check(0)
